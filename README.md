@@ -2,9 +2,9 @@
 
 ![Welcome GIF](welcome.gif)
 
-Aspiring **AWS Cloud & DevOps Engineer** with a passion for building **secure, scalable, and automated cloud environments**. Currently a **Security Engineer**, bringing a **security-first mindset** to every cloud and DevOps project.  
-
-I enjoy solving complex problems, collaborating with teams, and turning ideas into real infrastructure.
+**`AWS Cloud & DevOps Engineer | Security-Focused`**
+5+ years as a Security Engineer building secure, scalable, and automated cloud environments.
+Delivering real-world projects, solving complex problems, and turning ideas into tangible infrastructure.
 
 ---
 
