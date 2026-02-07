@@ -1,6 +1,6 @@
 # Hey, I'm Shane <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
-<h1>Welcome to my corner in the cloud..</h1> 
+![Welcome GIF](welcome.gif)
 
 Aspiring **AWS Cloud & DevOps Engineer** with a passion for building **secure, scalable, and automated cloud environments**. Currently a **Security Engineer**, bringing a **security-first mindset** to every cloud and DevOps project.  
 
@@ -16,7 +16,7 @@ I enjoy solving complex problems, collaborating with teams, and turning ideas in
 
 ---
 
-## 💻 Skill Stack
+## 🧰 Skill Stack
 
 **☁️ Cloud & DevOps:**  
 <!-- AWS EC2, S3, IAM, VPC, CloudWatch, Terraform, Ansible, Docker, Kubernetes, Jenkins -->
@@ -26,7 +26,7 @@ I enjoy solving complex problems, collaborating with teams, and turning ideas in
 <!-- Python, Bash, MySQL -->
 [![My Skills](https://skillicons.dev/icons?i=python,bash,mysql&theme=light)](https://skillicons.dev)
 
-**🖥️ Systems & Tools:**   
+**🛠️ Systems & Tools:**   
 <!-- Linux, Git, Github -->
 [![My Skills](https://skillicons.dev/icons?i=linux,git,github&theme=light)](https://skillicons.dev)
 ---
