@@ -8,7 +8,7 @@ I enjoy solving complex problems, collaborating with teams, and turning ideas in
 
 ---
 
-## 🌐 About Me
+## 👤 About Me
 
 - Building hands-on experience in **AWS cloud, DevOps automation, and Infrastructure as Code**  
 - Strong soft skills: **communication, collaboration, problem-solving**  
