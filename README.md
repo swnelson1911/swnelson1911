@@ -45,8 +45,9 @@ Delivering real-world projects, solving complex problems, and turning ideas into
 
 ## 📫 Connect with Me
 
-- LinkedIn: 
-- Email: 
+<a href="https://www.linkedin.com/in/shane-nelson1911/" target="blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+</a>
 
 ---
 <!-- 
